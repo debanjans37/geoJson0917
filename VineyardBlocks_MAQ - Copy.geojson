@@ -8215,7 +8215,33 @@
             },
             "properties": {
                 "subType": "Circle",
-                "radius": 100,
+                "radius": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.466384589419334,
+                    38.640122948136899
+                ]
+            },
+            "properties": {
+                "subType": "Circle",
+                "radius": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.455403874291022,
+                    38.638658390440277
+                ]
+            },
+            "properties": {
                 "label": "U14",
                 "title": "SUN LAKE"
             }
@@ -8230,8 +8256,6 @@
                 ]
             },
             "properties": {
-                "subType": "Circle",
-                "radius": 100,
                 "label": "U17",
                 "title": "SUN LAKE"
             }
